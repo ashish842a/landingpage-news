@@ -70,7 +70,8 @@ ul{
     height: 100vh;
     color: #fff;
     /* border: 1px solid red; */
-    background-color: #111;
+/*     background-color: #111; */
+    background-color: rgba(17, 17, 17, 0.396)
 }
 #left ul{
     /* margin-top: 20px; */
